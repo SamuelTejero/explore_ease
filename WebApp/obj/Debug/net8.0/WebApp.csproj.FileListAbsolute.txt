@@ -1,0 +1,7 @@
+C:\Users\gustavo a\Downloads\expplore_ease-main\expplore_ease-main\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\gustavo a\Downloads\expplore_ease-main\expplore_ease-main\WebApp\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo a\Downloads\expplore_ease-main\expplore_ease-main\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\gustavo a\Downloads\expplore_ease-main\expplore_ease-main\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\gustavo a\Downloads\expplore_ease-main\expplore_ease-main\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\gustavo a\Downloads\expplore_ease-main\expplore_ease-main\WebApp\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gustavo a\Downloads\expplore_ease-main\expplore_ease-main\WebApp\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
